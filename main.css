@@ -171,7 +171,7 @@
   --bgColor: #212d38;
   --textColor: #fff8f0;
   --bgColorTrans: #fff8f0ab;
-  --bgImage: url("/src/img/bg1.jpg");
+  --bgImage: url("img/bg1.jpg");
   --prevPosCar: 0;
   --posCar: 0;
   --prevPosAbout: 0;
